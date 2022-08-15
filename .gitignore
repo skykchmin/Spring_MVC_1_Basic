@@ -1,11 +1,10 @@
 build.gradle
 gradlew.bat
 gradlew
-gradlew.bat
 settings.gradle
+.gradle
 
 HELP.md
-.gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
